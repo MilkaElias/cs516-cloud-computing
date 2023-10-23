@@ -30,5 +30,7 @@ exports.handler = async (event) => {
 }
 
 ```
+### Oct 22, 2023
+-Working on the front-end application. 
 
 
