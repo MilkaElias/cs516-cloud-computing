@@ -33,4 +33,8 @@ exports.handler = async (event) => {
 ### Oct 22, 2023
 -Working on the front-end application. 
 
+### Oct 23, 2023
+-Completed the front-end application
+-Finalized the S3 and CloudFront configuration, along with the domain mapping.
+
 
